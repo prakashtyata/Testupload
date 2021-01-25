@@ -1,0 +1,301 @@
+# Translation of Plugins - Instant Images &#8211; One Click Unsplash Uploads - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Instant Images &#8211; One Click Unsplash Uploads - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-09 13:15:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Instant Images &#8211; One Click Unsplash Uploads - Stable (latest release)\n"
+
+#: instant-images.php:156
+msgid "Squarish"
+msgstr "Quadratisch"
+
+#: instant-images.php:155
+msgid "Portrait"
+msgstr "Hochformat"
+
+#: instant-images.php:154
+msgid "Landscape"
+msgstr "Querformat"
+
+#: instant-images.php:153
+msgid "Image Orientation"
+msgstr "Bildausrichtung"
+
+#: instant-images.php:137
+msgid "Search for Toronto + Coffee etc..."
+msgstr "Suche nach Toronto + Coffee …"
+
+#: instant-images.php:152
+msgid "Upload"
+msgstr "Upload"
+
+#: instant-images.php:147
+msgid "Edit Upload"
+msgstr "Upload bearbeiten"
+
+#: instant-images.php:144
+msgid "Title"
+msgstr "Titel"
+
+#: instant-images.php:142
+msgid "Insert Into Post"
+msgstr "In Beitrag einfügen"
+
+#: instant-images.php:141
+msgid "Set as Featured Image"
+msgstr "Als Beitragsbild festlegen"
+
+#: api/upload.php:71
+msgid "An issue occurred retrieving image info via the REST API."
+msgstr "Beim Abruf der Bild-Informationen über die REST API ist ein Problem aufgetreten."
+
+#: api/upload.php:149
+msgid "The core PHP copy() function is not available on your server. Please contact your server administrator to upgrade your PHP version."
+msgstr "Die PHP-Grundfunktion copy() ist auf deinem Server nicht verfügbar. Bitte den Server-Administrator darum, deine PHP-Version zu aktualisieren."
+
+#: api/resize.php:140
+msgid "There was an error resizing the image, please try again."
+msgstr "Beim Skalieren des Bildes ist ein Fehler aufgetreten. Bitte versuche es noch einmal."
+
+#: instant-images.php:126
+msgid "Click to Upload"
+msgstr "Klicke zum Hochladen"
+
+#: instant-images.php:140
+msgid "View Photo on Unsplash"
+msgstr "Zeige Foto auf Unsplash"
+
+#: api/upload.php:49
+msgid "Unable to save image, check your server permissions of `uploads/instant-instants`"
+msgstr "Es ist nicht möglich, das Bild zu speichern. Prüfe deine Server-Berechtigungen für `uploads/instant-instants`"
+
+#: instant-images.php:122
+msgid "There was an error accessing the WP REST API - Instant Images requires access to the WP REST API to fetch and upload images to your media library."
+msgstr "Bei Zugriff auf die WP REST API ist ein Fehler aufgetreten. Instant Images benötigt Zugriff auf die WP REST API, um Bilder zu holen und in deine Mediathek hochzuladen."
+
+#: instant-images.php:143
+msgid "Filename"
+msgstr "Dateiname"
+
+#: instant-images.php:145
+msgid "Alt Text"
+msgstr "Alt-Text"
+
+#: instant-images.php:146
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: instant-images.php:148
+msgid "Edit Image Details"
+msgstr "Bildinformationen bearbeiten"
+
+#: instant-images.php:149
+msgid "Update and save image details prior to uploading"
+msgstr "Aktualisiere und speichere Bildinformationen vor dem Upload"
+
+#: instant-images.php:150
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: instant-images.php:151
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/includes/unsplash-settings.php:24
+msgid "The latest Instant Images updates"
+msgstr "Die letzten Instant-Images-Aktualisierungen"
+
+#: api/resize.php:122
+msgid "There was an error sending the image to your media library. Please check your server permissions and confirm the upload_max_filesize setting (php.ini) is large enough for the downloaded image (8mb minimum is recommended)."
+msgstr "Beim Senden des Bildes in deine Mediathek ist ein Fehler aufgetreten. Bitte prüfe deine Server-Berechtigungen und dass die Einstellung upload_max_filesize setting (php.ini) für das heruntergeladenen Bild groß genug ist (mindestens 8MB empfohlen)."
+
+#: api/upload.php:135
+msgid "Unable to download image to server, please check the server permissions of the instant-images folder in your WP uploads directory."
+msgstr "Das Bild konnte nicht auf den Server heruntergeladen werden. Bitte prüfe die Server-Berechtigungen des Instant-Images-Verzeichnisses in deinem WP-Uploads-Verzeichnis."
+
+#: admin/includes/settings.php:47
+msgid "Button"
+msgstr "Button"
+
+#: admin/includes/settings.php:130
+msgid "Button:"
+msgstr "Button:"
+
+#: admin/includes/settings.php:134
+msgid "Hide Instant Images button next to \"Add Media\" on post edit screens."
+msgstr "Blende im Beitrags-Editor den Instant-Images-Button neben \"Medien hinzufügen\" aus."
+
+#: api/resize.php:82
+msgid "Unable to copy image to the media library. Please check your server permissions."
+msgstr "Es ist nicht möglich, Bilder in die Mediathek zu kopieren. Bitte prüfe deine Server-Berechtigungen."
+
+#: instant-images.php:139
+msgid "Clear Search Results"
+msgstr "Leere Suchergebnisse"
+
+#: admin/includes/unsplash-settings.php:23
+msgid "What's New"
+msgstr "Was gibt es Neues"
+
+#: instant-images.php:118
+msgid "Error accessing Unsplash API"
+msgstr "Fehler bei Zugriff auf die Unsplash API"
+
+#: instant-images.php:119
+msgid "Please check your Application ID."
+msgstr "Bitte überprüfe deine Anwendungs-ID."
+
+#: instant-images.php:123
+msgid "Photo by"
+msgstr "Foto von"
+
+#: instant-images.php:124
+msgid "View All Photos by"
+msgstr "Zeige alle Fotos von"
+
+#: instant-images.php:127
+msgid "View Full Size"
+msgstr "Volle Größe anzeigen"
+
+#: instant-images.php:128
+msgid "Like(s)"
+msgstr "Gefällt mir"
+
+#: instant-images.php:131
+msgid "Sorry, nothing matched your query"
+msgstr "Tut mir leid, nichts passt zu deiner Abfrage"
+
+#: instant-images.php:132
+msgid "Please try adjusting your search criteria"
+msgstr "Bitte versuche, deine Suchkriterien anzupassen"
+
+#: admin/includes/cta/permissions.php:14
+msgid "Permissions Error"
+msgstr "Berechtigungs-Fehler"
+
+#: admin/includes/unsplash-settings.php:6 admin/includes/settings.php:21
+msgid "Unsplash Settings"
+msgstr "Unsplash-Einstellungen"
+
+#: admin/includes/settings.php:29
+msgid "Upload Image Width"
+msgstr "Bildbreite Upload"
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Height"
+msgstr "Bildhöhe Upload"
+
+#: admin/includes/unsplash-settings.php:7 admin/includes/settings.php:64
+msgid "Manage your media upload settings"
+msgstr "Verwalte deine Einstellungen für den Medien-Upload"
+
+#: admin/includes/settings.php:93
+msgid "Max Image Upload Width:"
+msgstr "Max. Bildbreite Upload"
+
+#: admin/includes/settings.php:112
+msgid "Max Image Upload Height:"
+msgstr "Max. Bildhöhe Upload:"
+
+#: instant-images.php:134
+msgid "Oldest"
+msgstr "Älteste"
+
+#: instant-images.php:136
+msgid "Load More Images"
+msgstr "Lade weitere Bilder"
+
+#: admin/includes/unsplash-settings.php:16
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:112 admin/admin.php:130 instant-images.php:109
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#. Plugin URI of the plugin
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr "https://connekthq.com/plugins/instant-images/"
+
+#. Description of the plugin
+msgid "One click photo uploads directly to your media library."
+msgstr "Foto-Uploads direkt in deine Mediathek mit einem Click."
+
+#. Author of the plugin
+msgid "Darren Cooney"
+msgstr "Darren Cooney"
+
+#. Author URI of the plugin
+msgid "https://connekthq.com"
+msgstr "https://connekthq.com"
+
+#: instant-images.php:120
+msgid "Unable to download image to server, please check your server permissions."
+msgstr "Es ist nicht möglich, das Bild auf den Server herunterzuladen. Bitte prüfe die Server-Berechtigungen."
+
+#: instant-images.php:121
+msgid "There was an error sending the image to your media library. Please check your server permissions and confirm the upload_max_filesize setting (php.ini) is large enough for the downloaded image."
+msgstr "Beim Senden des Bildes an deine Mediathek ist ein Fehler aufgetreten. Bitte prüfe deine Server-Berechtigungen und dass die Einstellung upload_max_filesize (php.ini) für den Download des Bildes groß genug ist."
+
+#: instant-images.php:125
+msgid "Click Image to Upload"
+msgstr "Klicke für einen Upload auf das Bild"
+
+#: instant-images.php:129
+msgid "Downloading Image..."
+msgstr "Lade Bild herunter …"
+
+#: instant-images.php:130
+msgid "Resizing Image..."
+msgstr "Skaliere das Bild …"
+
+#: instant-images.php:133
+msgid "New"
+msgstr "Neu"
+
+#: instant-images.php:135
+msgid "Popular"
+msgstr "Beliebt"
+
+#: instant-images.php:138
+msgid "images found for"
+msgstr "Bilder gefunden für"
+
+#: admin/includes/cta/permissions.php:15
+msgid "Instant Images is unable to download and process images on your server."
+msgstr "Instant Images kann Bilder nicht auf deinen Server herunterladen und verarbeiten."
+
+#: admin/includes/cta/permissions.php:16
+msgid "Please enable read/write access to the following directory"
+msgstr "Bitte aktiviere Lese-/Schreib-Rechte für das folgende Verzeichnis"
+
+#: admin/includes/unsplash-settings.php:51
+msgid "Our Plugins"
+msgstr "Unsere Plugins"
+
+#: admin/views/unsplash.php:11
+msgid "One click photo uploads from %s"
+msgstr "Foto-Uploads mit einem Klick von %s"
+
+#: admin/views/unsplash.php:21
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: api/resize.php:111
+msgid "Image successfully uploaded to your media library!"
+msgstr "Bild erfolgreich in deine Mediathek hochgeladen!"
+
+#: api/upload.php:113
+msgid "Image successfully uploaded to server."
+msgstr "Bild erfolgreich auf deinen Server hochgeladen."
+
+#: api/upload.php:123
+msgid "Uploaded image not found, please ensure you have proper permissions set on the uploads directory."
+msgstr "Hochgeladenes Bild nicht gefunden. Bitte stelle sicher, dass die Berechtigungen für das Upload-Verzeichnis richtig gesetzt sind."
